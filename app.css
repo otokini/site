@@ -1,0 +1,28 @@
+h1 {
+    color: purple;
+    font-size: 56px
+}
+img{
+    border-color: ghostwhite;
+border-width: 3px;
+border-style: solid}
+h2{
+color:rgb(69, 76, 80);
+font-size: 30px
+}
+article{
+    border: 3px solid green;
+    margin: 5px;
+    background-color:khaki;
+    border-radius: 5px;
+    padding: 10px;}
+    header{
+        background-color: gold;
+        border-radius: 10px
+    }
+    nav{
+        background-color: 
+    }
+    li{
+        list-style-type: none;
+    }
